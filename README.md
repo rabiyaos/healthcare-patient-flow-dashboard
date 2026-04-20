@@ -1,4 +1,4 @@
-# 🏥 Hospital Patient Flow Optimization Dashboard
+# Hospital Patient Flow Optimization Dashboard
 
 ## Problem Statement
 
